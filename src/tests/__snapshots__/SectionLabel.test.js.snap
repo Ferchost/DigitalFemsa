@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renderiza bien 1`] = `
+<Text
+  style={
+    {
+      "alignSelf": "flex-start",
+      "color": "#9B9898",
+      "fontSize": 15,
+      "fontWeight": "bold",
+      "margin": 15,
+      "marginLeft": "6%",
+      "textAlign": "left",
+    }
+  }
+>
+  Hola Test
+</Text>
+`;
