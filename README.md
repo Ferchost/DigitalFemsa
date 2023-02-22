@@ -1,4 +1,3 @@
-# Logs
 
 # DigitalFemsa
 Digital Femsa
